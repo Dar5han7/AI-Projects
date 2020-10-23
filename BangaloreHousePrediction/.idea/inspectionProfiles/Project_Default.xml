@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="design_type.tension_member.tension_bolted.Tension_bolted.*" />
+          <option value="util" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
